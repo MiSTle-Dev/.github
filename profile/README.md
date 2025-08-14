@@ -1,3 +1,3 @@
-## FPGA Retro Computing Framework
+## Home of the FPGA Retro Computing Framework
 
-The [Wiki](https://github.com/MiSTle-Dev/FPGA-Companion/wiki)
+For more information visit the [Wiki](https://github.com/MiSTle-Dev/FPGA-Companion/wiki)
